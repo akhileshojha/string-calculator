@@ -1,6 +1,7 @@
 # TDD Assessment - Frontend - String Calculator
 
-You can view the live url of this project 
+### Project Deployed Public URL
+You can view the public url of this project 
 [String Calculator](https://akhileshojha.github.io/string-calculator/)
 
 ### Download the code
