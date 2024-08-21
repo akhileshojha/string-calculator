@@ -1,5 +1,9 @@
 # TDD Assessment - Frontend - String Calculator
 
+You can view the live url of this project
+open [String Calculator](https://akhileshojha.github.io/string-calculator/)
+
+
 https://github.com/akhileshojha/string-calculator
 
 ## String Calculator TDD Kata
